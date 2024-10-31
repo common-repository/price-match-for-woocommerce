@@ -1,0 +1,22 @@
+.hmwcpm-link {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.hmwcpm-form {
+	margin-bottom: 40px;
+}
+.hmwcpm-hidden {
+	display: none;
+}
+.hmwcpm-message {
+	padding: 5px 10px;
+	margin-bottom: 15px;
+}
+.hmwcpm-success {
+	background-color: #cfc;
+	border: 2px solid #9f9;
+}
+.hmwcpm-error {
+	background-color: #fcc;
+	border: 2px solid #f99;
+}
